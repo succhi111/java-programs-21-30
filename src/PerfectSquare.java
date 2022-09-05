@@ -13,7 +13,8 @@ public class PerfectSquare {
         }
         else
         {
-            System.out.print(num + " is not a Perfect Square");
+            System.out.print(num
+                    + " is not a Perfect Square");
         }
     }
 
