@@ -6,7 +6,7 @@ public class PrimeFactors {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number ::");
         number = sc.nextInt();
-        
+
 
         for (int i = 2; i < number; i++) {
             while (number % i == 0) {
