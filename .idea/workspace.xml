@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1202ece-aa38-4f1f-9b25-62ebae103d4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/PrimeFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeFactors.java" afterDir="false" />
-    </list>
+    <list default="true" id="b1202ece-aa38-4f1f-9b25-62ebae103d4c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
