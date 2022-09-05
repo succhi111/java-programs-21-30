@@ -14,6 +14,7 @@ public class PrimeFactors {
                 number = number / i;
             }
         }
+
         if (number > 2) {
             System.out.println(number);
         }
