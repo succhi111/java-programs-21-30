@@ -1,3 +1,5 @@
+//sum of digits of the number is completely devide by number
+//eg:- 126=1+2+6=9 and 126%9=0
 import java.util.Scanner;
 
 public class HarshadNumber {
