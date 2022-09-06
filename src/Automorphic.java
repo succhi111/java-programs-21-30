@@ -1,6 +1,8 @@
 //the last digit of square of the number is same to the given number
 //eg:--5^2=25 ,6^2=36
+
 import java.util.Scanner;
+
 public class Automorphic {
     public static void main(String[] args) {
 
