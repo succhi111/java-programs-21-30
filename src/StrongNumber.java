@@ -1,3 +1,4 @@
+//145=1!4!5!=145
 import java.util.Scanner;
 
 public class StrongNumber {
