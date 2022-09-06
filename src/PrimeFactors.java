@@ -1,4 +1,5 @@
 //eg:-228 =2*2*3*19
+
 import java.util.Scanner;
 
 public class PrimeFactors {
