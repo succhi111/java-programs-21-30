@@ -16,11 +16,11 @@ public class AbundantNumber {
                 sum = sum + i;
             }
         }
-            if (sum > num)
-                System.out.println("Abundant number");
-            else
-                System.out.println("Not an Abundant number");
-        }
+        if (sum > num)
+            System.out.println("Abundant number");
+        else
+            System.out.println("Not an Abundant number");
     }
+}
 
 
