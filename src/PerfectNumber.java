@@ -1,5 +1,6 @@
 //sum of all devisior is equal to number
 //eg:--6=1+2+3=6
+
 import java.util.Scanner;
 
 public class PerfectNumber {
